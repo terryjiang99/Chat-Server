@@ -4,10 +4,10 @@ Tian Qi Jiang
 101020433
 Comp2406A Andrew Runka
 
-Running the server:
-1. Open terminal. 
-2. In the 2406a4 directory, execute with :>node app.js
-3. Open chrome, and enter the url: http://localhost:2406 
+Running the app:
+1. In terminal, go to Chat-Server directory.
+2. Run the node server with :>node app.js
+3. In browser, go to url: http://localhost:2406 
 
 FOR BLOCKING USERS: 
 Use alt key instead of ctrl key.
