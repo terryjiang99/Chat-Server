@@ -1,0 +1,36 @@
+/* Tian Qi Jiang 101020433 */
+
+#contents{
+	width: 100%;
+	height: 200px;
+}
+	
+#userListDiv{
+	height:200px;
+	overflow: scroll;
+	border: solid 1px black;
+}
+
+#chatLog{
+    float: left;
+    width: 90%;
+    height: 200px;
+}
+		
+#inputText{
+	border: solid 1px black;
+	width: 90%;
+}
+
+p{
+	text-align: center;
+}
+
+body{
+	background-color: springgreen;
+}
+
+h1{
+	color: blueviolet;
+	text-align: center;
+}
